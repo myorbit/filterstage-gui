@@ -1,0 +1,14 @@
+{
+    "fmotor":{
+        "acc":5,
+        "accshape":0,
+        "ihold":1,
+        "irun":15,
+        "secpos":0,
+        "shaft":1,
+        "stepmode":3,
+        "type":"long",
+        "vmax":9,
+        "vmin":1
+    }
+}
